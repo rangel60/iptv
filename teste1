@@ -9,6 +9,183 @@ http://tntmais.com:80/2pimentelricardo/890301/10053132
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="PT RTP 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 1 HD
 http://tntmais.com:80/2pimentelricardo/890301/10053131
 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: Rtp 1 HD" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/17804697521.png" group-title="PORTUGAL",PT: Rtp 1 HD
+http://7go.xyz:8080/live/magept09abril/magept0572/307909.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD*" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/43939679791.png" group-title="PORTUGAL",PT: RTP 1 HD*
+http://7go.xyz:8080/live/magept09abril/magept0572/307234.m3u8
+
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES [UHD]¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES [UHD]¹
+http://7go.xyz:8080/live/joao1212/vencedor8977/315114.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD Max¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD Max¹
+http://7go.xyz:8080/live/joao1212/vencedor8977/54366.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD Max²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD Max²
+http://7go.xyz:8080/live/joao1212/vencedor8977/54344.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD¹
+http://7go.xyz:8080/live/joao1212/vencedor8977/18950.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD²
+http://7go.xyz:8080/live/joao1212/vencedor8977/58737.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD ᶜᴰᴺ²
+http://7go.xyz:8080/live/joao1212/vencedor8977/22254.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES  HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES  HD¹
+http://7go.xyz:8080/live/joao1212/vencedor8977/20949.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD²
+http://7go.xyz:8080/live/joao1212/vencedor8977/65745.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD¹
+http://7go.xyz:8080/live/joao1212/vencedor8977/56943.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD ᶜᴰᴺ²
+http://7go.xyz:8080/live/joao1212/vencedor8977/22255.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD¹
+http://7go.xyz:8080/live/joao1212/vencedor8977/18757.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
+http://7go.xyz:8080/live/joao1212/vencedor8977/22256.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
+http://7go.xyz:8080/live/joao1212/vencedor8977/22257.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD Max¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD Max¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/54366.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD ᶜᴰᴺ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22254.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18950.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/58737.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD ᶜᴰᴺ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22255.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/56943.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES  HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES  HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/20949.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/65745.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18757.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22256.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22257.m3u8
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="http://i.imgur.com/e58iP2O.png" group-title="CANAIS | SPORTV",SPORTV HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18659.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://i.imgur.com/e58iP2O.png" group-title="CANAIS | SPORTV",SPORTV HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22614.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 1 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/119434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1 HD² " tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 1 HD² 
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 2 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/42917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2 HD²" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 2 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 3 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/42919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3 HD²" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 3 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 4 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4 HD²" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 4 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 2 HD²" tvg-logo="http://i.imgur.com/YZ2Eyqf.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",PAULISTÃO PLAY 2 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/129892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 3 HD²" tvg-logo="http://i.imgur.com/YZ2Eyqf.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",PAULISTÃO PLAY 3 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/282156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 4 HD²" tvg-logo="http://i.imgur.com/YZ2Eyqf.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",PAULISTÃO PLAY 4 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/282157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA 01 HD¹" tvg-logo="http://i.imgur.com/zKxtzBr.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA 01 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/300042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA 02 HD¹" tvg-logo="http://i.imgur.com/zKxtzBr.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA 02 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/300043.m3u8
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS FHD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18637.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS FHD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64654.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18623.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22465.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS SD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18640.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22410.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV FHD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/45223.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18665.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD*" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV HD*
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22532.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV SD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18677.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD²" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22337.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF FHD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/18946.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF FHD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64655.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/116717.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22594.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/116718.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/22373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp4s7ApnuZ3bVzek4v4CQXuVBdP-CeSa34lF1RiN3_xrlb87-2PZDxWPN1hizT0K4BO4&usqp=CAU" group-title="CANAIS | ESPORTES GERAL",WWE HD
+http://7go.xyz:8080/live/ursula2920p2/9840234781/188345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp4s7ApnuZ3bVzek4v4CQXuVBdP-CeSa34lF1RiN3_xrlb87-2PZDxWPN1hizT0K4BO4&usqp=CAU" group-title="CANAIS | ESPORTES GERAL",WWE HD backup
+http://7go.xyz:8080/live/ursula2920p2/9840234781/188346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE SUMERSLAM" tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/6/6e/SummerSlam_2015.png/revision/latest/scale-to-width/360?cb=20160529165941" group-title="CANAIS | ESPORTES GERAL",WWE SUMERSLAM
+http://7go.xyz:8080/live/ursula2920p2/9840234781/188347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvg-name=" tvg-logo="https://www.planetawrestling.com/wp-content/uploads/Desaparecen-los-PPV-de-WWE.jpg" group-title="CANAIS | ESPORTES GERAL", WWE PPV
+http://7go.xyz:8080/live/ursula2920p2/9840234781/188348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK HD²" tvg-logo="http://i.imgur.com/jscGCSA.png" group-title="CANAIS | ESPORTES GERAL",FIGHT NETWORK HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/201863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX HD²" tvg-logo="http://i.imgur.com/MKTZDX6.png" group-title="CANAIS | ESPORTES GERAL",FIGHT BOX HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/201864.m3u8
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 FHD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD ᶜᴰᴺ²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 HD ᶜᴰᴺ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/199481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/42996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 FHD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 FHD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD ᶜᴰᴺ²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 HD ᶜᴰᴺ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/199482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/199484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 FHD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 FHD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD ᶜᴰᴺ²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 HD ᶜᴰᴺ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/199483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 HD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 FHD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 HD*
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 HD¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/43007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 SD²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/64680.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24H A GRANDE FAMILIA" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24HRS",24H A GRANDE FAMILIA
 http://joao-1-us.mainbkonline.shop:80/091011459729PW/085424413659/82575
 #EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24HRS",24H BOB ESPONJA
@@ -149,32 +326,7 @@ http://7go.xyz:8080/movie/joao1212/vencedor8977/196986.mp4
 http://7go.xyz:8080/movie/joao1212/vencedor8977/196994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vencer ou Morrer (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Vencer ou Morrer (1993)
 http://7go.xyz:8080/movie/joao1212/vencedor8977/197003.mp4
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES [UHD]¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES [UHD]¹
-http://7go.xyz:8080/live/joao1212/vencedor8977/315114.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD Max¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD Max¹
-http://7go.xyz:8080/live/joao1212/vencedor8977/54366.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD Max²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD Max²
-http://7go.xyz:8080/live/joao1212/vencedor8977/54344.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD¹
-http://7go.xyz:8080/live/joao1212/vencedor8977/18950.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD²
-http://7go.xyz:8080/live/joao1212/vencedor8977/58737.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD ᶜᴰᴺ²
-http://7go.xyz:8080/live/joao1212/vencedor8977/22254.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES  HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES  HD¹
-http://7go.xyz:8080/live/joao1212/vencedor8977/20949.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD²
-http://7go.xyz:8080/live/joao1212/vencedor8977/65745.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD¹
-http://7go.xyz:8080/live/joao1212/vencedor8977/56943.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD ᶜᴰᴺ²
-http://7go.xyz:8080/live/joao1212/vencedor8977/22255.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD¹
-http://7go.xyz:8080/live/joao1212/vencedor8977/18757.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
-http://7go.xyz:8080/live/joao1212/vencedor8977/22256.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
-http://7go.xyz:8080/live/joao1212/vencedor8977/22257.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="O Predador 1 (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg" group-title="FILMES | COLETÂNEA ALIENS",O Predador 1 (1987)
 http://7go.xyz:8080/movie/joao1212/vencedor8977/50611.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Braddock: O Super Comando (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gxO8lmpVY0ccLWIzWw8s9BE8poe.jpg" group-title="FILMES | COLETÂNEA BRADDOCK",Braddock: O Super Comando (1984)
@@ -374,32 +526,7 @@ http://7go.xyz:8080/live/ursula2920p2/9840234781/116574.m3u8
 http://7go.xyz:8080/live/ursula2920p2/9840234781/116579.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Retrô" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Retrô
 http://7go.xyz:8080/live/ursula2920p2/9840234781/116594.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD Max¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD Max¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/54366.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD ᶜᴰᴺ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22254.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES FHD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18950.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES FHD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/58737.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD ᶜᴰᴺ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22255.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/56943.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES  HD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES  HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/20949.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/65745.m3u8
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18757.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22256.m3u8
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22257.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="http://i.imgur.com/e58iP2O.png" group-title="CANAIS | SPORTV",SPORTV HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18659.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://i.imgur.com/e58iP2O.png" group-title="CANAIS | SPORTV",SPORTV HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22614.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Lanterna Verde: Cuidado Com Meu Poder (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jKuuMoCuAlu0NHvPSHzabkmXtz.jpg" group-title="FILMES | DC",Lanterna Verde: Cuidado Com Meu Poder (2022)
 http://7go.xyz:8080/movie/ursula2920p2/9840234781/272695.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batman: Alma do Dragão (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bqBGQUV1IsLP1zXwMxwgXwYfNG2.jpg" group-title="FILMES | DC",Batman: Alma do Dragão (2021)
@@ -634,6 +761,83 @@ http://7go.xyz:8080/movie/ursula2920p2/9840234781/299897.mp4
 http://7go.xyz:8080/movie/ursula2920p2/9840234781/316628.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg" group-title="FILMES | MARVEL",Deadpool 2 (2018)
 http://7go.xyz:8080/movie/ursula2920p2/9840234781/316629.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAMÍLIA ADDAMS 24H¹" tvg-logo="http://7go.xyz:8080/images/fc48f4ba6333309a3b54023e36192bd0.jpg" group-title="24H | DESENHOS",A FAMÍLIA ADDAMS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/226280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA 24H¹" tvg-logo="http://7go.xyz:8080/images/663b80c322a0246f83042d56d8b44f53.jpg" group-title="24H | DESENHOS",A PANTERA COR DE ROSA 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/226283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN 24H¹" tvg-logo="http://7go.xyz:8080/images/103e641086d1c9c6e298c4835c5be83f.jpg" group-title="24H | DESENHOS",AS AVENTURAS DE JACKIE CHAN 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/226408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TIN TIN 24H¹" tvg-logo="http://7go.xyz:8080/images/01861bf0fd3af077ff6719711cef00d5.jpg" group-title="24H | DESENHOS",AS AVENTURAS DE TIN TIN 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/226511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24H¹" tvg-logo="http://7go.xyz:8080/images/f46d60044cb095cad899739b34645a3c.jpg" group-title="24H | DESENHOS",BOB ESPONJA 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CADILLACS E DINOSSAUROS 24H¹" tvg-logo="https://m.media-amazon.com/images/I/71YZZGskwML.jpg" group-title="24H | DESENHOS",CADILLACS E DINOSSAUROS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO CAVERNA E AS PANTERINHAS 24H¹" tvg-logo="http://7go.xyz:8080/images/ab3a04f203c699c751e14f59632abb10.jpg" group-title="24H | DESENHOS",CAPITÃO CAVERNA E AS PANTERINHAS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PLANETA 24H¹" tvg-logo="https://media.fstatic.com/mfPHi3gPXbysck-2fLuK9023zBY=/290x478/smart/media/movies/covers/2012/05/8a0e33a505859bd744cfa0f03b8e4757.jpg" group-title="24H | DESENHOS",CAPITÃO PLANETA 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO 24H¹" tvg-logo="http://7go.xyz:8080/images/c6e913e18b52b13bbda234b746e41e71.jpg" group-title="24H | DESENHOS",CAVALO DE FOGO 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO 24H¹" tvg-logo="http://7go.xyz:8080/images/cd4f833689bdc0ce7d8b0a04d1da812c.jpg" group-title="24H | DESENHOS",CAVERNA DO DRAGÃO 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24H¹" tvg-logo="http://7go.xyz:8080/images/5b4fbce000b3293018d0a7ead4f6af27.jpg" group-title="24H | DESENHOS",CHAVES DESENHO 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA 24H¹" tvg-logo="http://7go.xyz:8080/images/53ef5770d9b62b837e304f7e34d816b7.jpg" group-title="24H | DESENHOS",CORRIDA MALUCA 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COYOTE E PAPA-LEGUAS 24H¹" tvg-logo="http://7go.xyz:8080/images/78dba31c2ecfe0ea68c70ae08e150c86.jpg" group-title="24H | DESENHOS",COYOTE E PAPA-LEGUAS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUCK DODGERS 24H¹" tvg-logo="https://m.media-amazon.com/images/I/71kPE-1aiNL._AC_SY550_.jpg" group-title="24H | DESENHOS",DUCK DODGERS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUCKTALES 24H¹" tvg-logo="http://7go.xyz:8080/images/35fc8578e9cb2c4e118420d00dc2dd0d.jpg" group-title="24H | DESENHOS",DUCKTALES 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH GORDON 24H¹" tvg-logo="http://7go.xyz:8080/images/84a1b46b9bc67cfa4b6a2515315c1801.png" group-title="24H | DESENHOS",FLASH GORDON 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÔMICA 24H¹" tvg-logo="http://7go.xyz:8080/images/90f38633b3398c1df71d5c7c1286827c.jpg" group-title="24H | DESENHOS",FORMIGA ATÔMICA 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/226281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GÁRGULAS 24H¹" tvg-logo="http://7go.xyz:8080/images/15558bb1159f310955102ff4a4ace409.jpg" group-title="24H | DESENHOS",GÁRGULAS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN 24H¹" tvg-logo="https://m.media-amazon.com/images/I/91x8X1EdkHL._AC_SY606_.jpg" group-title="24H | DESENHOS",HE-MAN 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HÉRCULES 24H¹" tvg-logo="http://7go.xyz:8080/images/3c26f40fd8c2a532097c5f7d07c1933f.jpg" group-title="24H | DESENHOS",HÉRCULES 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 24H¹" tvg-logo="http://7go.xyz:8080/images/86ba885b99a5997580efaa9fdc297beb.jpg" group-title="24H | DESENHOS",HOMEM-ARANHA 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA MAN 24H¹" tvg-logo="http://7go.xyz:8080/images/6c15f9209490b2098196a5a9e4cf5f86.png" group-title="24H | DESENHOS",MEGA MAN 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24H¹" tvg-logo="http://image.tmdb.org/t/p/original/kJpL6zkMyoN0CuoPKftWxEJ6Y9T.jpg" group-title="24H | DESENHOS",OS FLINTSTONES 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24H¹" tvg-logo="http://7go.xyz:8080/images/23a14c3f3937385ea5dbe08c87ae61d1.jpg" group-title="24H | DESENHOS",OS SIMPSONS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES 24H¹" tvg-logo="https://iili.io/bwTMqx.jpg" group-title="24H | DESENHOS",OS VINGADORES 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA E SEUS AMIGOS 24H¹" tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-os-amigos-do-pernalonga-volume-01-agata/campinascomercio2/3705/945f685299a0269372ebb77a402b087f.jpg" group-title="24H | DESENHOS",PERNALONGA E SEUS AMIGOS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU E SEUS AMIGOS 24H¹" tvg-logo="http://7go.xyz:8080/images/e125951b378313a3304d15c7c28e3937.jpg" group-title="24H | DESENHOS",PICA-PAU E SEUS AMIGOS 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE 24H¹" tvg-logo="http://7go.xyz:8080/images/4e0762e0c30266a6960d84c468dc529a.jpg" group-title="24H | DESENHOS",POPEYE 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESCOLINHA DO PROFESSOR RAIMUNDO ²" tvg-logo="" group-title="24H | SÉRIES",ESCOLINHA DO PROFESSOR RAIMUNDO ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/170677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS ²" tvg-logo="" group-title="24H | SÉRIES",EU A PATROA E AS CRIANÇAS ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/170678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS ²" tvg-logo="" group-title="24H | SÉRIES",TODO MUNDO ODEIA O CHRIS ²
+http://7go.xyz:8080/live/ursula2920p2/9840234781/170669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat" tvg-logo="https://www.gamerpoint.com.br/wp-content/uploads/2021/02/capa-mortal-kombat-filme.jpg" group-title="24H | SÉRIES",Mortal Kombat
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/71/71/20109801.jpg" group-title="24H | SÉRIES",MIB Homens de Preto
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro" tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/92/91/43/20224859.jpg" group-title="24H | SÉRIES",De Volta para o Futuro
+http://7go.xyz:8080/live/ursula2920p2/9840234781/229035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS VISÕES DA RAVEN " tvg-logo="https://images.justwatch.com/poster/204129439/s332/temporada-1" group-title="24H | SÉRIES",AS VISÕES DA RAVEN 
+http://7go.xyz:8080/live/ursula2920p2/9840234781/226513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YU YU HAKUSHO (1992)" tvg-logo="http://7go.xyz:8080/images/eeb3c0dfd4965bfd256443640e9f0689.jpg" group-title="24H | ANIMES",YU YU HAKUSHO (1992)
+http://7go.xyz:8080/live/ursula2920p2/9840234781/170273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA (1985) 24H¹" tvg-logo="http://7go.xyz:8080/images/cf6f7c2f178360bec80a3074493e4c0d.jpg" group-title="24H | ANIMES",SHE-RA (1985) 24H¹
+http://7go.xyz:8080/live/ursula2920p2/9840234781/231901.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MACHINE MAN (1984) S01 E01" tvg-logo="http://7online.xyz:8080/images/aa648356e4cde46b53ab29b7bb3c30cc.jpg" group-title="SERIES | TOKUSATSU",MACHINE MAN (1984) S01 E01
 http://7go.xyz:8080/series/ursula2920p2/9840234781/210928.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MACHINE MAN (1984) S01 E02" tvg-logo="http://7online.xyz:8080/images/84acc2666e846b54c1dfd380fefdb03b.jpg" group-title="SERIES | TOKUSATSU",MACHINE MAN (1984) S01 E02
@@ -1150,241 +1354,7 @@ http://7go.xyz:8080/series/ursula2920p2/9840234781/210381.mp4
 http://7go.xyz:8080/series/ursula2920p2/9840234781/210382.mp4
 #EXTINF:-1 tvg-id="" tvg-name="JASPION (1985) S01 E39" tvg-logo="http://7online.xyz:8080/images/353e132b85a4a7cd6d778a7fcbca3236.jpg" group-title="SERIES | TOKUSATSU",JASPION (1985) S01 E39
 http://7go.xyz:8080/series/ursula2920p2/9840234781/210383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E01" tvg-logo="http://7online.xyz:8080/images/f9bb2a571499577bb513d0d584df6591.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E01
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E02" tvg-logo="http://7online.xyz:8080/images/d19d9a168e62270d9f4cca55b1a201a5.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E02
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E03" tvg-logo="http://7online.xyz:8080/images/8eeebff218aa8ef79d21e7c1c4b84427.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E03
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E04" tvg-logo="http://7online.xyz:8080/images/2e624a41185ff4fd24f50082bcece7e1.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E04
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E05" tvg-logo="http://7online.xyz:8080/images/8241a6b95844294a5a1053c053717165.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E05
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E06" tvg-logo="http://7online.xyz:8080/images/7cf3ba41c3997481f6b7eee5c30d4a96.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E06
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E07" tvg-logo="http://7online.xyz:8080/images/d1e10ff728e3772963080597aeef8d61.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E07
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E08" tvg-logo="http://7online.xyz:8080/images/71765a137eb198d8357fef8666453739.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E08
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E09" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E09
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E10" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E10
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E11" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E11
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E12" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E12
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E13" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E13
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E14" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E14
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E15" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E15
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E16" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E16
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E17" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E17
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E18" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E18
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E19" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E19
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E20" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E20
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E21" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E21
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E22" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E22
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E23" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E23
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E24" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E24
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E25" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E25
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E26" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E26
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E27" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E27
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E28" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E28
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E29" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E29
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E30" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E30
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E31" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E31
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E32" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E32
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E33" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E33
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E34" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E34
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E35" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E35
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E36" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E36
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E37" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E37
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Dino Trovão (2003) S01 E38" tvg-logo="http://7online.xyz:8080/images/4f107a267ce69c9fc9fa7cb1a7348f38.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Dino Trovão (2003) S01 E38
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E01" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E01
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E02" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E02
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E03" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E03
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E04" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E04
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E05" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E05
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E06" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E06
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E07" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E07
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E08" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E08
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E09" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E09
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E10" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E10
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E11" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E11
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E12" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E12
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E13" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E13
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E14" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E14
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E15" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E15
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E16" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E16
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E17" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E17
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E18" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E18
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E19" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E19
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E20" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E20
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E21" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E21
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Ninja Steel (2017) S01 E22" tvg-logo="http://7online.xyz:8080/images/2a40012394be62077a219580ef7ed91c.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Ninja Steel (2017) S01 E22
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E01" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E01
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E02" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E02
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E03" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E03
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E04" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E04
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E05" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E05
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E06" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E06
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E07" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E07
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E08" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E08
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E09" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E09
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E10" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E10
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E11" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E11
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E12" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E12
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E13" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E13
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E14" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E14
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E15" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E15
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E16" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E16
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E17" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E17
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E18" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E18
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E19" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E19
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Super Mega Force (2013) S01 E20" tvg-logo="http://7online.xyz:8080/images/e10c0690319c8b837bbf34a5bd36cb32.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Super Mega Force (2013) S01 E20
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E01" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E01
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E02" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E02
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E03" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E03
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E04" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E04
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E05" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E05
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E06" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E06
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E07" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E07
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E08" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E08
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E09" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E09
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E10" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E10
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E11" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E11
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E12" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E12
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E13" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E13
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E14" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E14
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E15" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E15
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E16" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E16
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E17" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E17
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E18" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E18
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E19" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E19
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E20" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E20
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E21" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E21
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E22" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E22
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E23" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E23
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E24" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E24
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E25" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E25
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E26" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E26
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E27" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E27
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E28" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E28
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E29" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E29
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E30" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E30
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E31" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E31
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E32" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E32
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E33" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E33
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E34" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E34
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E35" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E35
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E36" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E36
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E37" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E37
-http://7go.xyz:8080/series/ursula2920p2/9840234781/254958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers - Tempestade Ninja (2003) S01 E38" tvg-logo="http://7online.xyz:8080/images/dc0fd72a4c4a80b976dfa288822cbac2.jpg" group-title="SERIES | TOKUSATSU",Power Rangers - Tempestade Ninja (2003) S01 E38
+
 http://7go.xyz:8080/series/ursula2920p2/9840234781/254959.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ultraman Trigger: New Generation Tiga LEG (2021) S01 E01" tvg-logo="http://7online.xyz:8080/images/f1a99598502319b1a8496f70f4797fc7.jpg" group-title="SERIES | TOKUSATSU",Ultraman Trigger: New Generation Tiga LEG (2021) S01 E01
 http://7go.xyz:8080/series/ursula2920p2/9840234781/254960.mp4
@@ -2822,263 +2792,3 @@ http://7go.xyz:8080/series/ursula2920p2/9840234781/315157.mp4
 http://7go.xyz:8080/series/ursula2920p2/9840234781/315158.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lion Man Branco (1972) S01 E10" tvg-logo="http://i.imgur.com/ssc5tOo.jpg" group-title="SERIES | TOKUSATSU",Lion Man Branco (1972) S01 E10
 http://7go.xyz:8080/series/ursula2920p2/9840234781/315159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 1 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/119434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1 HD² " tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 1 HD² 
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 2 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/42917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2 HD²" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 2 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 3 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/42919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3 HD²" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 3 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4 HD¹" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 4 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4 HD²" tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 4 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 01 HD²" tvg-logo="http://i.imgur.com/YX8kfG1.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO BAIANO 01 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/289999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD²" tvg-logo="http://i.imgur.com/W96fOBN.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA 1 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD²" tvg-logo="http://i.imgur.com/W96fOBN.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA 2 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/31462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1 HD²" tvg-logo="http://i.imgur.com/wVzFfKq.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 1 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/70901.m3u8
-#EXTINF:-1 tvg-id="aande.br" tvg-name="CAMPEONATO CATARINENSE 1 HD¹" tvg-logo="http://i.imgur.com/wVzFfKq.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 1 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CEARENCE HD²" tvg-logo="http://i.imgur.com/sVsgDnL.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENCE HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/293068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 1 HD²" tvg-logo="http://i.imgur.com/HDQGwac.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO MINEIRO 1 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/107393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 2 HD²" tvg-logo="http://i.imgur.com/BA55Ypk.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 2 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/293069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 1 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/ParanaenseFutebol.png/200px-ParanaenseFutebol.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 1 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/116699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 1 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/ParanaenseFutebol.png/200px-ParanaenseFutebol.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 1 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/116701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/ParanaenseFutebol.png/200px-ParanaenseFutebol.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 2 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/116700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/ParanaenseFutebol.png/200px-ParanaenseFutebol.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 2 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/116702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 3 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/ParanaenseFutebol.png/200px-ParanaenseFutebol.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 3 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/106461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 3 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/ParanaenseFutebol.png/200px-ParanaenseFutebol.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 3 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/293067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 1 HD²" tvg-logo="http://i.imgur.com/BA55Ypk.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 1 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/119433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1 HD²" tvg-logo="http://i.imgur.com/p0ESHbE.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO SERGIPANO 1 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/70898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 2 HD²" tvg-logo="http://i.imgur.com/p0ESHbE.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO SERGIPANO 2 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/70899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 2 HD²" tvg-logo="http://i.imgur.com/YZ2Eyqf.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",PAULISTÃO PLAY 2 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/129892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 3 HD²" tvg-logo="http://i.imgur.com/YZ2Eyqf.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",PAULISTÃO PLAY 3 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/282156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY 4 HD²" tvg-logo="http://i.imgur.com/YZ2Eyqf.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",PAULISTÃO PLAY 4 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/282157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 1²" tvg-logo="http://i.imgur.com/ovcNc09.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 1²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/296470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 2²" tvg-logo="http://i.imgur.com/ovcNc09.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 2²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/296472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO 3²" tvg-logo="http://i.imgur.com/ovcNc09.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO 3²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/296473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD¹" tvg-logo="http://i.imgur.com/W96fOBN.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA 1 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/109110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA 01 HD¹" tvg-logo="http://i.imgur.com/zKxtzBr.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA 01 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA 02 HD¹" tvg-logo="http://i.imgur.com/zKxtzBr.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA 02 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1 HD¹" tvg-logo="http://i.imgur.com/p0ESHbE.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO SERGIPANO 1 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO POTIGUAR HD¹" tvg-logo="http://i.imgur.com/MdtEfwH.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO POTIGUAR HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO HD¹" tvg-logo="http://i.imgur.com/HDQGwac.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO MINEIRO HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MARANHENSE 01 HD¹" tvg-logo="http://i.imgur.com/g1rTHfo.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO MARANHENSE 01 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MARANHENSE 02 HD¹" tvg-logo="http://i.imgur.com/g1rTHfo.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO MARANHENSE 02 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GOIANO HD¹" tvg-logo="http://i.imgur.com/WSx1VzJ.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GOIANO HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO GAÚCHO HD¹" tvg-logo="http://i.imgur.com/ovcNc09.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GAÚCHO HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CEARENCE HD¹" tvg-logo="http://i.imgur.com/sVsgDnL.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENCE HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 01 HD¹" tvg-logo="http://i.imgur.com/ZVYmo8C.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO BAIANO 01 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 02 HD¹" tvg-logo="http://i.imgur.com/ZVYmo8C.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO BAIANO 02 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO ALAGOANO HD¹" tvg-logo="http://i.imgur.com/qo4eXBm.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO ALAGOANO HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CAPIXABA HD¹" tvg-logo="http://i.imgur.com/BzSPc3V.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CAPIXABA HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PERNAMBUCANO HD¹" tvg-logo="http://i.imgur.com/iw8THEM.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PERNAMBUCANO HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 1 HD¹" tvg-logo="http://i.imgur.com/BA55Ypk.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 1 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 2 HD¹" tvg-logo="http://i.imgur.com/BA55Ypk.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO 2 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/300062.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS FHD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18637.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS FHD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64654.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18623.m3u8
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22465.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS SD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18640.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22410.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV FHD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/45223.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18665.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD*" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV HD*
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22532.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV SD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18677.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD²" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22337.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF FHD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/18946.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF FHD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64655.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/116717.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22594.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/116718.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp4s7ApnuZ3bVzek4v4CQXuVBdP-CeSa34lF1RiN3_xrlb87-2PZDxWPN1hizT0K4BO4&usqp=CAU" group-title="CANAIS | ESPORTES GERAL",WWE HD
-http://7go.xyz:8080/live/ursula2920p2/9840234781/188345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE HD backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp4s7ApnuZ3bVzek4v4CQXuVBdP-CeSa34lF1RiN3_xrlb87-2PZDxWPN1hizT0K4BO4&usqp=CAU" group-title="CANAIS | ESPORTES GERAL",WWE HD backup
-http://7go.xyz:8080/live/ursula2920p2/9840234781/188346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE SUMERSLAM" tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/6/6e/SummerSlam_2015.png/revision/latest/scale-to-width/360?cb=20160529165941" group-title="CANAIS | ESPORTES GERAL",WWE SUMERSLAM
-http://7go.xyz:8080/live/ursula2920p2/9840234781/188347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tvg-name=" tvg-logo="https://www.planetawrestling.com/wp-content/uploads/Desaparecen-los-PPV-de-WWE.jpg" group-title="CANAIS | ESPORTES GERAL", WWE PPV
-http://7go.xyz:8080/live/ursula2920p2/9840234781/188348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK HD²" tvg-logo="http://i.imgur.com/jscGCSA.png" group-title="CANAIS | ESPORTES GERAL",FIGHT NETWORK HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/201863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX HD²" tvg-logo="http://i.imgur.com/MKTZDX6.png" group-title="CANAIS | ESPORTES GERAL",FIGHT BOX HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/201864.m3u8
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL 1 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 FHD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD ᶜᴰᴺ²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 HD ᶜᴰᴺ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/199481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/42996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 1 SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 FHD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 FHD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD ᶜᴰᴺ²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 HD ᶜᴰᴺ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/199482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 2 SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/199484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 FHD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 FHD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD ᶜᴰᴺ²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 HD ᶜᴰᴺ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/199483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 3 SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 FHD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 HD*
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 HD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/43007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/64680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAMÍLIA ADDAMS 24H¹" tvg-logo="http://7go.xyz:8080/images/fc48f4ba6333309a3b54023e36192bd0.jpg" group-title="24H | DESENHOS",A FAMÍLIA ADDAMS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/226280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA 24H¹" tvg-logo="http://7go.xyz:8080/images/663b80c322a0246f83042d56d8b44f53.jpg" group-title="24H | DESENHOS",A PANTERA COR DE ROSA 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/226283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN 24H¹" tvg-logo="http://7go.xyz:8080/images/103e641086d1c9c6e298c4835c5be83f.jpg" group-title="24H | DESENHOS",AS AVENTURAS DE JACKIE CHAN 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/226408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TIN TIN 24H¹" tvg-logo="http://7go.xyz:8080/images/01861bf0fd3af077ff6719711cef00d5.jpg" group-title="24H | DESENHOS",AS AVENTURAS DE TIN TIN 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/226511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24H¹" tvg-logo="http://7go.xyz:8080/images/f46d60044cb095cad899739b34645a3c.jpg" group-title="24H | DESENHOS",BOB ESPONJA 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CADILLACS E DINOSSAUROS 24H¹" tvg-logo="https://m.media-amazon.com/images/I/71YZZGskwML.jpg" group-title="24H | DESENHOS",CADILLACS E DINOSSAUROS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO CAVERNA E AS PANTERINHAS 24H¹" tvg-logo="http://7go.xyz:8080/images/ab3a04f203c699c751e14f59632abb10.jpg" group-title="24H | DESENHOS",CAPITÃO CAVERNA E AS PANTERINHAS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PLANETA 24H¹" tvg-logo="https://media.fstatic.com/mfPHi3gPXbysck-2fLuK9023zBY=/290x478/smart/media/movies/covers/2012/05/8a0e33a505859bd744cfa0f03b8e4757.jpg" group-title="24H | DESENHOS",CAPITÃO PLANETA 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO 24H¹" tvg-logo="http://7go.xyz:8080/images/c6e913e18b52b13bbda234b746e41e71.jpg" group-title="24H | DESENHOS",CAVALO DE FOGO 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO 24H¹" tvg-logo="http://7go.xyz:8080/images/cd4f833689bdc0ce7d8b0a04d1da812c.jpg" group-title="24H | DESENHOS",CAVERNA DO DRAGÃO 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24H¹" tvg-logo="http://7go.xyz:8080/images/5b4fbce000b3293018d0a7ead4f6af27.jpg" group-title="24H | DESENHOS",CHAVES DESENHO 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA 24H¹" tvg-logo="http://7go.xyz:8080/images/53ef5770d9b62b837e304f7e34d816b7.jpg" group-title="24H | DESENHOS",CORRIDA MALUCA 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COYOTE E PAPA-LEGUAS 24H¹" tvg-logo="http://7go.xyz:8080/images/78dba31c2ecfe0ea68c70ae08e150c86.jpg" group-title="24H | DESENHOS",COYOTE E PAPA-LEGUAS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUCK DODGERS 24H¹" tvg-logo="https://m.media-amazon.com/images/I/71kPE-1aiNL._AC_SY550_.jpg" group-title="24H | DESENHOS",DUCK DODGERS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUCKTALES 24H¹" tvg-logo="http://7go.xyz:8080/images/35fc8578e9cb2c4e118420d00dc2dd0d.jpg" group-title="24H | DESENHOS",DUCKTALES 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FLASH GORDON 24H¹" tvg-logo="http://7go.xyz:8080/images/84a1b46b9bc67cfa4b6a2515315c1801.png" group-title="24H | DESENHOS",FLASH GORDON 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÔMICA 24H¹" tvg-logo="http://7go.xyz:8080/images/90f38633b3398c1df71d5c7c1286827c.jpg" group-title="24H | DESENHOS",FORMIGA ATÔMICA 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/226281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GÁRGULAS 24H¹" tvg-logo="http://7go.xyz:8080/images/15558bb1159f310955102ff4a4ace409.jpg" group-title="24H | DESENHOS",GÁRGULAS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HE-MAN 24H¹" tvg-logo="https://m.media-amazon.com/images/I/91x8X1EdkHL._AC_SY606_.jpg" group-title="24H | DESENHOS",HE-MAN 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HÉRCULES 24H¹" tvg-logo="http://7go.xyz:8080/images/3c26f40fd8c2a532097c5f7d07c1933f.jpg" group-title="24H | DESENHOS",HÉRCULES 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 24H¹" tvg-logo="http://7go.xyz:8080/images/86ba885b99a5997580efaa9fdc297beb.jpg" group-title="24H | DESENHOS",HOMEM-ARANHA 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA MAN 24H¹" tvg-logo="http://7go.xyz:8080/images/6c15f9209490b2098196a5a9e4cf5f86.png" group-title="24H | DESENHOS",MEGA MAN 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24H¹" tvg-logo="http://image.tmdb.org/t/p/original/kJpL6zkMyoN0CuoPKftWxEJ6Y9T.jpg" group-title="24H | DESENHOS",OS FLINTSTONES 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24H¹" tvg-logo="http://7go.xyz:8080/images/23a14c3f3937385ea5dbe08c87ae61d1.jpg" group-title="24H | DESENHOS",OS SIMPSONS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES 24H¹" tvg-logo="https://iili.io/bwTMqx.jpg" group-title="24H | DESENHOS",OS VINGADORES 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231823.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA E SEUS AMIGOS 24H¹" tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-os-amigos-do-pernalonga-volume-01-agata/campinascomercio2/3705/945f685299a0269372ebb77a402b087f.jpg" group-title="24H | DESENHOS",PERNALONGA E SEUS AMIGOS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU E SEUS AMIGOS 24H¹" tvg-logo="http://7go.xyz:8080/images/e125951b378313a3304d15c7c28e3937.jpg" group-title="24H | DESENHOS",PICA-PAU E SEUS AMIGOS 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POPEYE 24H¹" tvg-logo="http://7go.xyz:8080/images/4e0762e0c30266a6960d84c468dc529a.jpg" group-title="24H | DESENHOS",POPEYE 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESCOLINHA DO PROFESSOR RAIMUNDO ²" tvg-logo="" group-title="24H | SÉRIES",ESCOLINHA DO PROFESSOR RAIMUNDO ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/170677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS ²" tvg-logo="" group-title="24H | SÉRIES",EU A PATROA E AS CRIANÇAS ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/170678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS ²" tvg-logo="" group-title="24H | SÉRIES",TODO MUNDO ODEIA O CHRIS ²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/170669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat" tvg-logo="https://www.gamerpoint.com.br/wp-content/uploads/2021/02/capa-mortal-kombat-filme.jpg" group-title="24H | SÉRIES",Mortal Kombat
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/71/71/20109801.jpg" group-title="24H | SÉRIES",MIB Homens de Preto
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro" tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/92/91/43/20224859.jpg" group-title="24H | SÉRIES",De Volta para o Futuro
-http://7go.xyz:8080/live/ursula2920p2/9840234781/229035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AS VISÕES DA RAVEN " tvg-logo="https://images.justwatch.com/poster/204129439/s332/temporada-1" group-title="24H | SÉRIES",AS VISÕES DA RAVEN 
-http://7go.xyz:8080/live/ursula2920p2/9840234781/226513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YU YU HAKUSHO (1992)" tvg-logo="http://7go.xyz:8080/images/eeb3c0dfd4965bfd256443640e9f0689.jpg" group-title="24H | ANIMES",YU YU HAKUSHO (1992)
-http://7go.xyz:8080/live/ursula2920p2/9840234781/170273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHE-RA (1985) 24H¹" tvg-logo="http://7go.xyz:8080/images/cf6f7c2f178360bec80a3074493e4c0d.jpg" group-title="24H | ANIMES",SHE-RA (1985) 24H¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/231901.m3u8
