@@ -11,7 +11,6 @@ http://tntmais.com:80/2pimentelricardo/890301/10053131
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: Rtp 1 HD" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/17804697521.png" group-title="PORTUGAL",PT: Rtp 1 HD
 http://7go.xyz:8080/live/magept09abril/magept0572/307909.m3u8
-
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD*" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/43939679791.png" group-title="PORTUGAL",PT: RTP 1 HD*
 http://7go.xyz:8080/live/magept09abril/magept0572/307234.m3u8
 
@@ -186,6 +185,64 @@ http://7go.xyz:8080/live/ursula2920p2/9840234781/43010.m3u8
 http://7go.xyz:8080/live/ursula2920p2/9840234781/43007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | CONMEBOL ",CONMEBOL 4 SD²
 http://7go.xyz:8080/live/ursula2920p2/9840234781/64680.m3u8
+
+ 
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1" tvg-logo="https://i.imgur.com/10ahVZK.png" group-title="Canais | Portugal",PT: RTP 1
+http://s.downboot.ga:80/live/iramende23/xarada26/140352.m3u8
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1 HD" tvg-logo="https://i.imgur.com/10ahVZK.png" group-title="Canais | Portugal",PT: RTP 1 HD
+http://s.downboot.ga:80/live/iramende23/xarada26/140353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBb0IcUYPn5yPJCtOfSzVkBFN9k.jpg" group-title="Filmes: Faroeste",A Face Oculta - 1961
+http://s.downboot.ga:80/movie/iramende23/xarada26/146996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte anda a Cavalo - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyAD6dY9MkSVinMDLpUUkSg4jw.jpg" group-title="Filmes: Faroeste",A Morte anda a Cavalo - 1967
+http://s.downboot.ga:80/movie/iramende23/xarada26/151192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra de um Revolver (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0B331VlMnCmTrsLDQhtfEe8286.jpg" group-title="Filmes: Faroeste",A Sombra de um Revolver (1965)
+http://s.downboot.ga:80/movie/iramende23/xarada26/183567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bravura Indômita - 1969" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnGazdUxu0lfTB6XJNx0jFQ21UB.jpg" group-title="Filmes: Faroeste",Bravura Indômita - 1969
+http://s.downboot.ga:80/movie/iramende23/xarada26/133586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cahill, Xerife do Oeste - 1973" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnXFWKcfElbC3PwPXOmeQZ6vSef.jpg" group-title="Filmes: Faroeste", Xerife do Oeste - 1973
+http://s.downboot.ga:80/movie/iramende23/xarada26/151203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dívida de Sangue - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYYwvisHEV1B7eFlKWeA7C5Krwd.jpg" group-title="Filmes: Faroeste",Dívida de Sangue - 1965
+http://s.downboot.ga:80/movie/iramende23/xarada26/151211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Dorado - 1966" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m0FvpIPs2dYn3VN3natAN7plsC.jpg" group-title="Filmes: Faroeste",El Dorado - 1966
+http://s.downboot.ga:80/movie/iramende23/xarada26/151212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era uma Vez no Oeste - 1968" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg" group-title="Filmes: Faroeste",Era uma Vez no Oeste - 1968
+http://s.downboot.ga:80/movie/iramende23/xarada26/151216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigantes em Luta - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TNAQ2BQLcjoK5qIrInb5QGrReL.jpg" group-title="Filmes: Faroeste",Gigantes em Luta - 1967
+http://s.downboot.ga:80/movie/iramende23/xarada26/151219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joe Kidd - 1972" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79z36W7MH6lGegdQ43jm77fhRbl.jpg" group-title="Filmes: Faroeste",Joe Kidd - 1972
+http://s.downboot.ga:80/movie/iramende23/xarada26/151226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joe O Pistoleiro Implacável - 1966" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GAQl0T3aanQBCKmU94Y6yrcWD.jpg" group-title="Filmes: Faroeste",Joe O Pistoleiro Implacável - 1966
+http://s.downboot.ga:80/movie/iramende23/xarada26/151227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Yuma - O Vingador (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYkmMi46uuRd7tv9wHiH5U2OBMN.jpg" group-title="Filmes: Faroeste",Johnny Yuma - O Vingador (1966)
+http://s.downboot.ga:80/movie/iramende23/xarada26/231019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Keoma - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilaq6KgSJ9shK3udKZmSTBqHNmd.jpg" group-title="Filmes: Faroeste",Keoma - 1976
+http://s.downboot.ga:80/movie/iramende23/xarada26/151231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Ninguém - 1973" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1PAAdhqTxqmQgZ1Bug4AZqY7AE.jpg" group-title="Filmes: Faroeste",Meu Nome é Ninguém - 1973
+http://s.downboot.ga:80/movie/iramende23/xarada26/151232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Ódio Será Sua Herança - 1969" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNf1qeHqTcHs7jREU6K7DNaWMx.jpg" group-title="Filmes: Faroeste",Meu Ódio Será Sua Herança - 1969
+http://s.downboot.ga:80/movie/iramende23/xarada26/133603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dólar Furado (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biX9CEacIkqvCwSA7aGs3ILCDry.jpg" group-title="Filmes: Faroeste",O Dólar Furado (1965)
+http://s.downboot.ga:80/movie/iramende23/xarada26/287317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Xerife (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title="Filmes: Faroeste",O Grande Xerife (1972)
+http://s.downboot.ga:80/movie/iramende23/xarada26/259769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trem do Inferno - 1975" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Agf3JOg5KGc3wj75HuT7Y96gzf.jpg" group-title="Filmes: Faroeste",O Trem do Inferno - 1975
+http://s.downboot.ga:80/movie/iramende23/xarada26/151248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Álamo - 1960" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg" group-title="Filmes: Faroeste",O Álamo - 1960
+http://s.downboot.ga:80/movie/iramende23/xarada26/151249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Violentos Vão para o Inferno - 1968" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRDQDbILK8rDxzpasuBrjR1XeCC.jpg" group-title="Filmes: Faroeste",Os Violentos Vão para o Inferno - 1968
+http://s.downboot.ga:80/movie/iramende23/xarada26/151246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Últimos Machões - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS8zHHEi9TxC6fbIzQGnJyHq69b.jpg" group-title="Filmes: Faroeste",Os Últimos Machões - 1976
+http://s.downboot.ga:80/movie/iramende23/xarada26/151247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por um Punhado de Dólares - 1964" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lYT4Waw7Z9bgvNUZsMdLJ4ndCm.jpg" group-title="Filmes: Faroeste",Por um Punhado de Dólares - 1964
+http://s.downboot.ga:80/movie/iramende23/xarada26/151251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por uns Dólares a Mais - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RhAfiUUFD0ZbJg2EwY9tZ85erh.jpg" group-title="Filmes: Faroeste",Por uns Dólares a Mais - 1965
+http://s.downboot.ga:80/movie/iramende23/xarada26/151252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue em Sonora - 1966" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKCIgDIzMNq8BXgX5zKs0QClnhm.jpg" group-title="Filmes: Faroeste",Sangue em Sonora - 1966
+http://s.downboot.ga:80/movie/iramende23/xarada26/133616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Homens em Conflito - 1966" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6CoXpyZRqYJF3lTfxjWIahO6qM.jpg" group-title="Filmes: Faroeste",Três Homens em Conflito - 1966
+http://s.downboot.ga:80/movie/iramende23/xarada26/151265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Pistola Para Ringo - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NIJ2mPmeIuDvcaaAJ8IpgBu6ru.jpg" group-title="Filmes: Faroeste",Uma Pistola Para Ringo - 1965
+http://s.downboot.ga:80/movie/iramende23/xarada26/147011.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="24H A GRANDE FAMILIA" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24HRS",24H A GRANDE FAMILIA
 http://joao-1-us.mainbkonline.shop:80/091011459729PW/085424413659/82575
