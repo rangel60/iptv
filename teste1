@@ -1,18 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://zx.pe:80/images/07af5c9d819e56f65fc02746d217e0af.png" group-title="PORTUGAL",RTP 1 HD
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="RTP 1 HD" tvg-logo="http://zx.pe:80/images/07af5c9d819e56f65fc02746d217e0af.png" group-title="PORTUGAL",RTP 1 HD
 http://zx.pe:80/835932/050721/1521363.ts
 
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PT RTP 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 1
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="RTP 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 1
 http://tntmais.com:80/2pimentelricardo/890301/10053132
 
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PT RTP 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 1 HD
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="RTP 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 1 HD
 http://tntmais.com:80/2pimentelricardo/890301/10053131
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: Rtp 1 HD" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/17804697521.png" group-title="PORTUGAL",PT: Rtp 1 HD
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="Rtp 1 HD" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/17804697521.png" group-title="PORTUGAL",PT: Rtp 1 HD
 http://7go.xyz:8080/live/magept09abril/magept0572/307909.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD*" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/43939679791.png" group-title="PORTUGAL",PT: RTP 1 HD*
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD*" tvg-logo="https://img-cdn.curl.pk/PREMIERE 2_icon/43939679791.png" group-title="PORTUGAL",PT: RTP 1 HD*
 http://7go.xyz:8080/live/magept09abril/magept0572/307234.m3u8
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1" tvg-logo="https://i.imgur.com/10ahVZK.png" group-title="PORTUGAL"",PT: RTP 1
+http://s.downboot.ga:80/live/iramende23/xarada26/140352.m3u8
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1 HD" tvg-logo="https://i.imgur.com/10ahVZK.png" group-title="PORTUGAL"",PT: RTP 1 HD
+http://s.downboot.ga:80/live/iramende23/xarada26/140353.m3u8
 
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES [UHD]¹" tvg-logo="http://i.imgur.com/mJjmprV.png" group-title="CANAIS | PREMIERE FC",PREMIERE CLUBES [UHD]¹
@@ -187,10 +193,7 @@ http://7go.xyz:8080/live/ursula2920p2/9840234781/43007.m3u8
 http://7go.xyz:8080/live/ursula2920p2/9840234781/64680.m3u8
 
  
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1" tvg-logo="https://i.imgur.com/10ahVZK.png" group-title="Canais | Portugal",PT: RTP 1
-http://s.downboot.ga:80/live/iramende23/xarada26/140352.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1 HD" tvg-logo="https://i.imgur.com/10ahVZK.png" group-title="Canais | Portugal",PT: RTP 1 HD
-http://s.downboot.ga:80/live/iramende23/xarada26/140353.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="A Face Oculta - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBb0IcUYPn5yPJCtOfSzVkBFN9k.jpg" group-title="Filmes: Faroeste",A Face Oculta - 1961
 http://s.downboot.ga:80/movie/iramende23/xarada26/146996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Morte anda a Cavalo - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyAD6dY9MkSVinMDLpUUkSg4jw.jpg" group-title="Filmes: Faroeste",A Morte anda a Cavalo - 1967
