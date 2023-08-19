@@ -131,12 +131,8 @@ http://7go.xyz:8080/live/ursula2920p2/9840234781/18946.m3u8
 http://7go.xyz:8080/live/ursula2920p2/9840234781/64655.m3u8
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD¹
 http://7go.xyz:8080/live/ursula2920p2/9840234781/116717.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22594.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD¹
-http://7go.xyz:8080/live/ursula2920p2/9840234781/116718.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD²
-http://7go.xyz:8080/live/ursula2920p2/9840234781/22373.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp4s7ApnuZ3bVzek4v4CQXuVBdP-CeSa34lF1RiN3_xrlb87-2PZDxWPN1hizT0K4BO4&usqp=CAU" group-title="CANAIS | ESPORTES GERAL",WWE HD
 http://7go.xyz:8080/live/ursula2920p2/9840234781/188345.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE HD backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp4s7ApnuZ3bVzek4v4CQXuVBdP-CeSa34lF1RiN3_xrlb87-2PZDxWPN1hizT0K4BO4&usqp=CAU" group-title="CANAIS | ESPORTES GERAL",WWE HD backup
@@ -386,6 +382,92 @@ http://s.downboot.ga:80/movie/iramende23/xarada26/133616.mp4
 http://s.downboot.ga:80/movie/iramende23/xarada26/151265.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Pistola Para Ringo - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NIJ2mPmeIuDvcaaAJ8IpgBu6ru.jpg" group-title="Filmes: Faroeste",Uma Pistola Para Ringo - 1965
 http://s.downboot.ga:80/movie/iramende23/xarada26/147011.mp4
+
+
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E01" tvg-logo="http://7online.xyz:8080/images/3c9b18183240d8f4aae44af88bcac3f4.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E01
+http://7go.xyz:8080/series/engrafael/rafael210522/107399.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E02" tvg-logo="http://7online.xyz:8080/images/01e573c7fc105dde542fd00699f648e8.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E02
+http://7go.xyz:8080/series/engrafael/rafael210522/107400.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E03" tvg-logo="http://7online.xyz:8080/images/952ba46deac1be218f786957140dc2db.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E03
+http://7go.xyz:8080/series/engrafael/rafael210522/107401.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E04" tvg-logo="http://7online.xyz:8080/images/5f57dae4a8de7ee5d0aa430d3bc01113.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E04
+http://7go.xyz:8080/series/engrafael/rafael210522/107402.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E05" tvg-logo="http://7online.xyz:8080/images/fa8691c68765b8bb6193868e9eca06b3.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E05
+http://7go.xyz:8080/series/engrafael/rafael210522/107403.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E06" tvg-logo="http://7online.xyz:8080/images/39579f9ceec978e60a52ff2135657a26.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E06
+http://7go.xyz:8080/series/engrafael/rafael210522/107404.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E07" tvg-logo="http://7online.xyz:8080/images/aa96b4803ec440328682919fb593f561.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E07
+http://7go.xyz:8080/series/engrafael/rafael210522/107405.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E08" tvg-logo="http://7online.xyz:8080/images/fb4966fe71b7b54a0423a9366100e8ac.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E08
+http://7go.xyz:8080/series/engrafael/rafael210522/107406.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E09" tvg-logo="http://7online.xyz:8080/images/69f5a157f9f4e8fe2d581dbb998831d6.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E09
+http://7go.xyz:8080/series/engrafael/rafael210522/107407.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E10" tvg-logo="http://7online.xyz:8080/images/62315e28601c1df78edba4dec720bbf2.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E10
+http://7go.xyz:8080/series/engrafael/rafael210522/107408.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E11" tvg-logo="http://7online.xyz:8080/images/b26b284c26b89b7405684ca4b2d09546.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E11
+http://7go.xyz:8080/series/engrafael/rafael210522/107409.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E12" tvg-logo="http://7online.xyz:8080/images/3909be733b5b83e52e8e89a8cbf69bf4.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E12
+http://7go.xyz:8080/series/engrafael/rafael210522/107410.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E13" tvg-logo="http://7online.xyz:8080/images/595223d22fb25313170b5f3505988a72.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E13
+http://7go.xyz:8080/series/engrafael/rafael210522/107411.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E14" tvg-logo="http://7online.xyz:8080/images/5a9587c3856cf4dfd6d4e92d7fd0baf9.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E14
+http://7go.xyz:8080/series/engrafael/rafael210522/107412.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E15" tvg-logo="http://7online.xyz:8080/images/46746b21d8d8ee8b837e6f477cab4baf.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E15
+http://7go.xyz:8080/series/engrafael/rafael210522/107413.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E16" tvg-logo="http://7online.xyz:8080/images/509cbff148a440d5cc792057312f2702.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E16
+http://7go.xyz:8080/series/engrafael/rafael210522/107414.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E17" tvg-logo="http://7online.xyz:8080/images/88c34b8cb581321edd2f6e1bd2737901.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E17
+http://7go.xyz:8080/series/engrafael/rafael210522/107415.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E18" tvg-logo="http://7online.xyz:8080/images/89a5c22ca114108eb3b191c92f1752ba.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E18
+http://7go.xyz:8080/series/engrafael/rafael210522/107416.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E19" tvg-logo="http://7online.xyz:8080/images/042ffbdba1652da0e46dad3c84da677f.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E19
+http://7go.xyz:8080/series/engrafael/rafael210522/107417.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E20" tvg-logo="http://7online.xyz:8080/images/9351d8a98d3c493ec1af626df5324c42.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E20
+http://7go.xyz:8080/series/engrafael/rafael210522/107418.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E21" tvg-logo="http://7online.xyz:8080/images/af5770e5598d7f73586ac99e76927178.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E21
+http://7go.xyz:8080/series/engrafael/rafael210522/107419.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E22" tvg-logo="http://7online.xyz:8080/images/1f2be8a0461587e9c2b4ec77dc27f541.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E22
+http://7go.xyz:8080/series/engrafael/rafael210522/107420.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E23" tvg-logo="http://7online.xyz:8080/images/e4a9d2c4b884e5c819d6e647ede6c904.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E23
+http://7go.xyz:8080/series/engrafael/rafael210522/107421.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E24" tvg-logo="http://7online.xyz:8080/images/279a4cb1f22eb8c98e47f047182eabbf.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E24
+http://7go.xyz:8080/series/engrafael/rafael210522/107422.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E25" tvg-logo="http://7online.xyz:8080/images/5d944ab6110735a317a7e7abccce0973.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E25
+http://7go.xyz:8080/series/engrafael/rafael210522/107423.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E26" tvg-logo="http://7online.xyz:8080/images/5e1a444090442af85a1556a0e1a1a665.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E26
+http://7go.xyz:8080/series/engrafael/rafael210522/107424.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E27" tvg-logo="http://7online.xyz:8080/images/7f49d7f6c5e5b873765afbfd885df368.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E27
+http://7go.xyz:8080/series/engrafael/rafael210522/107425.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E28" tvg-logo="http://7online.xyz:8080/images/3a6b13fb33ad5d2f90ec5dd90efd9d41.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E28
+http://7go.xyz:8080/series/engrafael/rafael210522/107426.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E29" tvg-logo="http://7online.xyz:8080/images/e5bb4e957ae2523a7b42e18ff1bb4d64.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E29
+http://7go.xyz:8080/series/engrafael/rafael210522/107427.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E30" tvg-logo="http://7online.xyz:8080/images/4e9f42faf8e30b92087aaa86d6b09d2e.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E30
+http://7go.xyz:8080/series/engrafael/rafael210522/107428.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E31" tvg-logo="http://7online.xyz:8080/images/c47db664d2cf5b2524b9fd4ab612868c.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E31
+http://7go.xyz:8080/series/engrafael/rafael210522/107429.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E32" tvg-logo="http://7online.xyz:8080/images/1f7679eb9eec599dfbe76d88b869a8b6.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E32
+http://7go.xyz:8080/series/engrafael/rafael210522/107430.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E33" tvg-logo="http://7online.xyz:8080/images/db8a7fd7854f441d086e42516cab4252.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E33
+http://7go.xyz:8080/series/engrafael/rafael210522/107431.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E34" tvg-logo="http://7online.xyz:8080/images/0b0036bf538f881727d1f917c373afa7.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E34
+http://7go.xyz:8080/series/engrafael/rafael210522/107432.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E35" tvg-logo="http://7online.xyz:8080/images/550c6e003e39aa774eaf363898b5f987.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E35
+http://7go.xyz:8080/series/engrafael/rafael210522/107433.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E36" tvg-logo="http://7online.xyz:8080/images/4d7cda1373e72da7f8decfad8b8b1f81.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E36
+http://7go.xyz:8080/series/engrafael/rafael210522/107434.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E37" tvg-logo="http://7online.xyz:8080/images/70a8fcf917f9dead205cbf747bfaf954.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E37
+http://7go.xyz:8080/series/engrafael/rafael210522/107435.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E38" tvg-logo="http://7online.xyz:8080/images/a26aacfcad7a90222026168a419321e6.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E38
+http://7go.xyz:8080/series/engrafael/rafael210522/107436.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E39" tvg-logo="http://7online.xyz:8080/images/ebc4008f07214b94b46c766eb24dcd4b.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E39
+http://7go.xyz:8080/series/engrafael/rafael210522/107437.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E40" tvg-logo="http://7online.xyz:8080/images/7da1e22f9e92c21f25c7acd4df769828.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E40
+http://7go.xyz:8080/series/engrafael/rafael210522/107438.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E41" tvg-logo="http://7online.xyz:8080/images/7da1e22f9e92c21f25c7acd4df769828.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E41
+http://7go.xyz:8080/series/engrafael/rafael210522/107439.mp4
+#EXTINF:-1 tvg-id="Zorro" tvg-name="Zorro (1957) S01 E42" tvg-logo="http://7online.xyz:8080/images/7da1e22f9e92c21f25c7acd4df769828.jpg" group-title="SERIE | ZORRO",Zorro (1957) S01 E42
+http://7go.xyz:8080/series/engrafael/rafael210522/107440.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/24_horas_2018_logo_pantel.png/1200px-24_horas_2018_logo_pantel.png" group-title="CANAIS | 24HRS",STREET FIGHTER  HD
 http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/718
