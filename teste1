@@ -1,43 +1,43 @@
 #EXTM3U8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",REDE BRASIL RBTV HD
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",REDE BRASIL RBTV HD
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",FILMRISE SÉRIES 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",FILMRISE SÉRIES 24H
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",ENTORNO SUL WEB TV 24H
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",QTAL CHANNEL 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",ENTORNO SUL WEB TV 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",QTAL CHANNEL 24H
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",CLASSICOS DO CINEMA TV 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",CLASSICOS DO CINEMA TV 24H
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",REVIVA TV 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",REVIVA TV 24H
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",TELE WEB TV 24H
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",CANAL 29 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",TELE WEB TV 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",CANAL 29 24H
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",RETRÔ CARTOON 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",RETRÔ CARTOON 24H
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",CLASSIQUE TV 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",CLASSIQUE TV 24H
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",DO FUNDO DO BAÚ 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",DO FUNDO DO BAÚ 24H
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",GLN TV 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",GLN TV 24H
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",TV CLÁSSICOS 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",TV CLÁSSICOS 24H
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",AW TV LIVE 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",AW TV LIVE 24H
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",TV JAPI 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",TV JAPI 24H
 https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w2131666465.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",SONATA TV 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",SONATA TV 24H
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",CARAVANA PLAY 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",CARAVANA PLAY 24H
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist_w2017794033.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",WEB TV CAMPEÃO 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",WEB TV CAMPEÃO 24H
 https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/chunklist_w929391766.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",GRJNGO BANG BANG 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",GRJNGO BANG BANG 24H
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RANGEL" tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",TV WESTERN BANG BANG 24H
+#EXTINF:-1 tvg-name="RANGEL" tvg-logo="#EXTINF:0 group-title="RANGEL",TV WESTERN BANG BANG 24H
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w196357875.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",GRJNGO BANG BANG 24H
+#EXTINF:-1 tvg-name="#EXTINF:0 tvg-logo="#EXTINF:0 group-title="RANGEL",GRJNGO BANG BANG 24H
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",TV WESTERN BANG BANG 24H
+#EXTINF:-1 tvg-name="#EXTINF:0 tvg-logo="#EXTINF:0 group-title="RANGEL",TV WESTERN BANG BANG 24H
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w196357875.m3u8
