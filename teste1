@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN 24H" tvg-logo="http://st1.horizonplay.io:8080/icon/9768-s-1711916315270.jpeg" group-title="24H DESENHOS",AS AVENTURAS DE JACKIE CHAN 24H
 http://hzplay.xyz:80/live/1040099627/89646558/913.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24H" tvg-logo="http://script.horizonplay.io/thumbs/23b1469760fb7560cb8471eefd66220f.jpg" group-title="24H DESENHOS",BOB ESPONJA 24H
@@ -115,21 +115,21 @@ http://hzplay.xyz:80/live/1040099627/89646558/201405.m3u8
 http://hzplay.xyz:80/live/1040099627/89646558/19326.m3u8
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS FHD" tvg-logo="http://st1.horizonplay.io:8080/icon/4529-s-1711811529082.png" group-title="ESPORTES",BANDSPORTS FHD
 http://hzplay.xyz:80/live/1040099627/89646558/201404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ ¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5829-b-1711904075196.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ ¹ HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ ¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5829-b-1711904075196.png" group-title="ESPORTES",PARAMOUNT+ ¹ HD
 http://hzplay.xyz:80/live/1040099627/89646558/256832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ ¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/5829-b-1711904075196.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ ¹ HD+
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ ¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/5829-b-1711904075196.png" group-title="ESPORTES",PARAMOUNT+ ¹ HD+
 http://hzplay.xyz:80/live/1040099627/89646558/256836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/457-b-1711904158365.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO¹ HD
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/457-b-1711904158365.png" group-title="ESPORTES",PRIME VIDEO¹ HD
 http://hzplay.xyz:80/live/1040099627/89646558/256436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/457-b-1711904158365.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO¹ HD+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/457-b-1711904158365.png" group-title="ESPORTES",PRIME VIDEO¹ HD+
 http://hzplay.xyz:80/live/1040099627/89646558/260623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1626-b-1711902472726.jpeg" group-title="ESPORTES ESPECIAIS",CAZE TV¹ HD
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1626-b-1711902472726.jpeg" group-title="ESPORTES",CAZE TV¹ HD
 http://hzplay.xyz:80/live/1040099627/89646558/256112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/1626-b-1711902472726.jpeg" group-title="ESPORTES ESPECIAIS",CAZE TV¹ HD+
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/1626-b-1711902472726.jpeg" group-title="ESPORTES",CAZE TV¹ HD+
 http://hzplay.xyz:80/live/1040099627/89646558/707399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="APPLETV +¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5611-b-1711902193343.png" group-title="ESPORTES ESPECIAIS",APPLETV +¹ HD
+#EXTINF:-1 tvg-id="" tvg-name="APPLETV +¹ HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5611-b-1711902193343.png" group-title="ESPORTES",APPLETV +¹ HD
 http://hzplay.xyz:80/live/1040099627/89646558/272535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="APPLETV +¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/5611-b-1711902193343.png" group-title="ESPORTES ESPECIAIS",APPLETV +¹ HD+
+#EXTINF:-1 tvg-id="" tvg-name="APPLETV +¹ HD+" tvg-logo="http://st1.horizonplay.io:8080/icon/5611-b-1711902193343.png" group-title="ESPORTES",APPLETV +¹ HD+
 http://hzplay.xyz:80/live/1040099627/89646558/272534.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AWTV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/742-b-1711832824423.png" group-title="FILMES E SERIES",AWTV HD
 http://hzplay.xyz:80/live/1040099627/89646558/713833.m3u8
