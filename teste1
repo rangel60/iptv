@@ -1,10 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",SONY ONE CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",WEB TV VINTAGE
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",TELA BRASIL
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",REDE BRASIL RBTV HD
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",FILMRISE SÉRIES 24H
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",ENTORNO SUL WEB TV 24H
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",QTAL CHANNEL 24H
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",CLASSICOS DO CINEMA TV 24H
@@ -12,7 +18,6 @@ https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",REVIVA TV 24H
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",TELE WEB TV 24H
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",CANAL 29 24H
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",RETRÔ CARTOON 24H
