@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="Filme Clownhouse Máscaras do Terror 1989 (Dublado)" group-title="FILMES" pltv-subgroup="TERROR",Filme Clownhouse Máscaras do Terror 1989 (Dublado)
+https://www.youtube.com/watch?v=M-skwKg5eYM
 
 #EXTINF:-1 tvg-id="ext" tvg-name="#EXTINF:0 tvg-id="ext" tvg-logo="#EXTINF:0 tvg-id="ext" group-title="RANGEL",SONY ONE CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
